@@ -1,0 +1,40 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 18pt;
+  font-weight: normal;
+  background: FloralWhite;
+  float: left;
+  text-align: center;
+}
+
+.countbox {
+  float: left;
+  margin-right: 100px;
+}
+
+.counttext {
+  color: red;
+  font-size: 18pt;
+}
+
+h3 {
+  text-align: center;
+}
+
+.main {
+  margin: 100px auto;
+  text-align: center;
+}
+
+button {
+  padding: 20px;
+  background: Gainsboro;
+  text-shadow: 1px 1px 1px #202020;
+  font-size: 16pt;
+  border: 1px solid black;
+  color: black;
+}
